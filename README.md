@@ -1,4 +1,5 @@
 # Proyecto 1: Cadenas y listas
 
 
-## [Listas: temperatura](temperatura.md)
+## [Listas: Temperatura](temperatura.md)
+## [Cadenas: Virus](virus.md)
