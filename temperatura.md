@@ -51,3 +51,4 @@ archivo.close()
 
 ![Ejecución](/imagenes/temperatura1.png)
 ![Ejecución2](/imagenes/temperatura2.png)
+
